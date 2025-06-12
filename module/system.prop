@@ -1,0 +1,8 @@
+ro.matrixx.chipset=Snapdragon®=4=Gen=2
+modro.matrixx.display_resolution=FHD
+modro.matrixx.display.version=Matrixx-v99.9.0-Mod
+modro.matrixx.maintainer=xetrazxz
+modro.matrixx.release.type=Unofficial
+modro.sf.blurs_are_expensive=0
+modro.surface_flinger.supports_background_blur=0
+persist.sys.dalvik.multithread=true
